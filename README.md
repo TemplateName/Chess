@@ -1,7 +1,10 @@
-<h1>Chess</h1>
+<h1> Chess </h1>
+
+#### Welcome to my chess page! Chess is one of my hobbies and I wanted to share one of my passions that is non career related.
 
 <img src="https://github.com/TemplateName/PhotoRepo/blob/main/ChessBanner.jpg" width="100%" alt="Chess Banner"/>
-
+<br>
+<br>
 
 <table>
   <tr>
@@ -15,7 +18,8 @@
     </th>
   </tr>
 </table>
- 
+
+<br>
  
 <table>
   <tr>
@@ -24,12 +28,13 @@
     </th>
     <th>
       <h2> 
-        <a href="https://www.chess.com/member/vorixx"> Vorixx </a> 
+        <a href="https://www.chess.com/member/rayignacio"> rayignacio </a> 
       </h2>
     </th>
   </tr>
 </table> 
  
+<br>
  
 <table>
   <tr>
@@ -44,6 +49,7 @@
   </tr>
 </table>  
  
+<br> 
  
 <table>
   <tr>
@@ -58,18 +64,13 @@
   </tr>
 </table> 
  
- 
- 
+<br>
  
 <style>
   table, tr, th {
     border: none;
   }
 </style>
-  
-#### Hello
-# Hiya
-
 
 ```
 #My code:
