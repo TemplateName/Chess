@@ -13,7 +13,7 @@
     </th>
     <th>
       <h2> 
-        <a href="https://www.chess.com/member/vorixx"> Vorixx </a> 
+        <a href="https://www.chess.com/member/vorixx"> Vorixx </a>
       </h2>
     </th>
   </tr>
@@ -66,12 +66,34 @@
  
 <br>
  
-<style>
-  table, tr, th {
-    border: none;
-  }
-</style>
-
+<table>
+  <tr>
+    <th> Hiya
+    </th>
+    <th> 
+      <ul style="list-style-type:none;">
+        <li> My name </li>
+        <li> Value 1 </li>
+        <li> Item 3 </li>
+      </ul>
+    </th>
+  </tr>
+  <tr>
+    <th> Hola
+    </th>
+    <th> Konichiwa
+    </th>
+    <th> Bonjour
+    </th>
+  </tr>
+</table
+ 
+<br>
+<br>
+<br>
+table, tr, th {
+  border: none;
+}
 ```
 #My code:
 
