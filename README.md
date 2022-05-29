@@ -9,7 +9,7 @@
 <table>
   <tr>
     <th>
-      <img alight="left" src="https://github.com/TemplateName/PhotoRepo/blob/main/Chess1.jpg" />
+      <img alight="left" src="https://github.com/TemplateName/PhotoRepo/blob/main/Chess1.jpg" alt="flickrphoto"/>
     </th>
     <th>
       <h2> 
@@ -24,7 +24,7 @@
 <table>
   <tr>
     <th>
-      <img alight="left" src="https://github.com/TemplateName/PhotoRepo/blob/main/Chess3.jpg" />
+      <img alight="left" src="https://github.com/TemplateName/PhotoRepo/blob/main/Chess3.jpg" alt="flickrphoto"/>
     </th>
     <th>
       <h2> 
@@ -54,7 +54,7 @@
 <table>
   <tr>
     <th>
-      <img alight="left" src="https://github.com/TemplateName/PhotoRepo/blob/main/Chess4.jpg" />
+      <img alight="left" src="https://github.com/TemplateName/PhotoRepo/blob/main/Chess4.jpg" alt="flickrphoto"/>
     </th>
     <th>
       <h2> 
@@ -91,10 +91,8 @@
 <br>
 <br>
 <br>
-table, tr, th {
-  border: none;
-}
-```
-#My code:
 
+  
+```
+# My code:
 ```
