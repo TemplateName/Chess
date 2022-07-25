@@ -1,6 +1,6 @@
 <h1> Chess </h1>
 
-#### Welcome to my chess page! Chess is one of my hobbies and I wanted to share one of my passions that is non career related.
+#### Welcome to my chess page! Chess is one of my hobbies and I wanted to share one of my passions that is non career related. Currently I am trying to figure out how to auto update this page with API keys. This page is still a work in progress. Thank you for stopping by!
 
 <img src="https://github.com/TemplateName/PhotoRepo/blob/main/ChessBanner.jpg" width="100%" alt="Chess Banner"/>
 <br>
